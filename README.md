@@ -8,6 +8,18 @@ Download BlackSpeak
 git clone https://github.com/blackmagic2023/blackspeak.git
 ```
 
+Enter the directory of the script
+
+```
+cd blackspeak
+```
+
+Make the script executable
+
+```
+chmod +x blackspeak.py
+```
+
 Install pycryptodome
 
 ```
