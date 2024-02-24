@@ -1,5 +1,5 @@
 # blackspeak
-A simple message encryption and decryption script for secure communication.
+A simple information encryption script, the encryption key is unique to your machine.
 
 # Usage
 Download BlackSpeak
